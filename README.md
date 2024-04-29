@@ -14,6 +14,9 @@ Sample animations Flutter:
 - AnimatedPositioned.
 - AnimatedSize.
 
+
+![Sample animations](https://github.com/joaoduartemariucio/sample_animations/blob/main/img/sample_animations.gif)
+
 ---
 
 ## Getting Started 🚀
